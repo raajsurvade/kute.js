@@ -29,6 +29,6 @@
   },
   "homepage": "http://thednp.github.io/kute.js",
   "dependencies": {
-    "uglify-js": "^2.7.3"
+    "uglify-js": "^3.0.28"
   }
 }
