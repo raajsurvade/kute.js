@@ -1,4 +1,6 @@
 # KUTE.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/thednp/kute.js.svg)](https://greenkeeper.io/)
 A fully fledged native Javascript animation engine with most essential features for web developers, designers and animators, delivering easy to use methods to set up high performance, cross-browser animations. The focus is code quality, flexibility, performance and size (core engine is 17k min and 5.5k gzipped). 
 
 Along with a simple jQuery plugin, KUTE.js packs plugins for presentation attributes, SVG transform, draw SVG strokes and path morphing, text string write up or number countdowns, plus additional CSS properties like colors, border-radius or typographic properties.
